@@ -1,7 +1,7 @@
 # AngularProject
 
 This project shows a custom built JSON database connected to Angular interactively, an interactive UI, and the ability to add/modiify "tasks"
-to a list.
+to a list. This project can be further expanded by chaning the JSON database to a MongoDB database, or even SQL, to show multiple concepts in the same interface.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
